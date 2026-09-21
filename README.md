@@ -22,7 +22,7 @@ Here are some of my public projects. Some of my projects are still private, but 
 
 - [qECCBenchWiki](https://github.com/QuantumSavory/qECCBenchWiki): a benchmark wiki for quantum error-correcting codes
 
-## Learning/Hobby Projects
+## Learning/Hobby/Unfinished Projects
 
 | Project | Description |
 | --- | --- |
